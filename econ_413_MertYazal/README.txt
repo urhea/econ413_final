@@ -1,4 +1,4 @@
-Dear Erol Hoca,
+
 
 My Contribution:
 
@@ -18,8 +18,6 @@ Tree map
 Scatter plots
 -Classification is via HS96 codes.
 -Only yet have line chart, bar chart and tree map been used.
-
-Kind Regards.
 
 
 ########################################################################################
