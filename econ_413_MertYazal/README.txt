@@ -24,38 +24,6 @@ Kind Regards.
 
 ########################################################################################
 
-Letter:
-
-Dear Professor Erol Hoca,
-
-I have sent a detailed letter to you at the 10th of June, as you may remember. I had already started for my own project before then. As you have demanded for a clarification, I will summarize the reasons from my side why I decided to split up
-from my friends, group5:
-
-To summarize the reasons:
-
-1- Not answering whatsapp group texts, class-related publications regarding the project
-
-As time passed and I got discouraged of my colleagues, I stopped taking initiative of the group: 
-No surprise: no progress was made since I stopped taking initiative until May 20, one day before the first presentation.
-
-2- Not taking initiative 
-3- Not being interested at project at all
-       -first presentation was made one day before the presentation day
-       -final presentation started last Friday, 14th of June.
-
-4- Taking the top three items into consideration, my group put me under obstacle rather than each of us should be supporting one another.
-As you have mentioned, one of the fostering aspects of team work is to learn from each other. 
-
-After I stopped initiative, no one ever texted anything to the group about R project since then except before the first presentation and final project.
-
-I am sorry for having created an extraordinary situation and I am personally very sad about this outcome for two reasons. 
-First, I could learn a lot more out of this class with collaborative colleagues or with my friends.
-Second, I had to waste the most of my time understanding/solving the easy/repetitive syntax which would be done a lot faster with colleagues. This constrained me to do a more challenging project thus have an A grade.
-
-
-I have also sent your e-mail to them about a brief explanation of the issue.
-
-Kind Regards.
 
 
 
